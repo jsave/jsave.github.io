@@ -1,0 +1,24 @@
+---
+title: 2014 UML Design Build Fly
+author_profile: false
+excerpt: A year long student led worldwide engineering competition
+header:
+  teaser: lh-lastflight-tn.jpg
+  overlay_image: lh-lastflight-spl.jpg
+lh1:
+  - image_path: lh-firstflight.jpg
+    url: /images/lh-firstflight.jpg
+    alt: "lh-firstflight"
+    title: "lh first flight"
+    excerpt: "first flight of UML design build fly plane, February 2014 on a frozen lake"
+lh2:
+  - image_path: lh-motortest.jpg
+    url: /images/lh-motortest.jpg
+    alt: "lh-motortest"
+    title: "Motor testing"
+    except: "Propulsion system testing in university wind tunnel"
+
+---
+{% include feature_row id="lh1" type="left" %}
+{% include feature_row id="lh2" type="left" %}
+	

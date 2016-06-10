@@ -1,0 +1,34 @@
+---
+title: Trunk System
+author_profile: false
+excerpt: Mounting vehicle based server and sensor box storage 
+header:
+  teaser: ediv-2016-trunk-incar-rot.jpg
+  overlay_image: ediv-2015-wholecar-spl.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+
+trunk1:
+  - image_path: ediv-2016-trunk-server-render.png
+    alt: "trunkrender"
+    title: "Server Rack and Sensor Box Render"
+    excerpt: "Render of basic trunk system. Modeled in Solidworks"
+
+trunk2:
+  - image_path: ediv-2016-trunk-server.jpg
+    alt: "ediv-2015-setup"
+    title: "Sensor box mounted on roof of Rav4"
+    excerpt: "First deployment, scanning houses in Philadelphia"
+
+trunk3:
+  - image_path: ediv-2016-trunk-incar-rot2.jpg
+    alt: "ediv-2015-wholecar"
+    title: "Rav4 complete setup"
+    excerpt: "test"
+
+---
+
+{% include feature_row id="trunk1" type="left" %}
+{% include feature_row id="trunk2" type="left" %}
+{% include feature_row id="trunk3" type="left" %}
+	

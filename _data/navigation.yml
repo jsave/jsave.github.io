@@ -1,16 +1,11 @@
 # main links links
 main:
-  - title: "Home"
-    url: https://jsave.me
 
   - title: "About"
-    url: https://jsave.me/about
+    url: /about/
 
-  - title: "Sample Posts"
-    url: https://jsave.me/posts
+  - title: "Portfolio"
+    url: /portfolio/
 
-  - title: "Sample Pages"
-    url: https://jsave.me/pages
-
-  - title: "Sample Collections"
-    url: https://jsave.me/collections
+  - title: "Posts"
+    url: /posts/
