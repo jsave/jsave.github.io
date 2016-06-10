@@ -4,13 +4,13 @@ main:
     url: https://jsave.me
 
   - title: "About"
-    url: https://jsave.me/about
+    url: jsave.me/about
 
   - title: "Sample Posts"
-    url: https://jsave.me/posts
+    url: jsave.me/posts
 
   - title: "Sample Pages"
-    url: https://jsave.me/pages
+    url: jsave.me/pages
 
   - title: "Sample Collections"
-    url: https://jsave.me/collections
+    url: jsave.me/collections

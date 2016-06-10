@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jason Savery - Mechanical Design Engineer"
 title_separator          : "-"
 name                     : "Jason Savery"
-description              : "Portfolio for Mechanical Design Engineer Jason Savery"
+description              : "Portfolio website for Mechanical Design Engineer Jason Savery"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
